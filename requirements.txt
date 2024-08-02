@@ -1,7 +1,8 @@
+ipykernel
 torch
 numpy
 scipy
 matplotlib
-sklearn
+scikit-learn
 pytorch-lightning
 torchmetrics
